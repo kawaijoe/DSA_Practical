@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joe/OneDrive - Ngee Ann Polytechnic/School/Year 2.2/DSA/Practical/Week 4/Stack.cpp
+Stack.h
+/Users/joe/OneDrive - Ngee Ann Polytechnic/School/Year 2.2/DSA/Practical/Week 4/Stack.h
+
+/Users/joe/OneDrive - Ngee Ann Polytechnic/School/Year 2.2/DSA/Practical/Week 4/Stack.h
+string
+-
+iostream
+-
+
+/Users/joe/OneDrive - Ngee Ann Polytechnic/School/Year 2.2/DSA/Practical/Week 4/main.cpp
+iostream
+-
+Stack.h
+/Users/joe/OneDrive - Ngee Ann Polytechnic/School/Year 2.2/DSA/Practical/Week 4/Stack.h
+
